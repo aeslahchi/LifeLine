@@ -56,7 +56,7 @@ Contact me for further development, access to complete firmware, or collaboratio
 
 This project is intended as a collaborative and educational effort. I am looking for engineers and developers interested in contributing. Feel free to reach out via:
 
-LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/amirhosein-eslahchi/)
+LinkedIn: [[My LinkedIn Profile]](https://www.linkedin.com/in/amirhosein-eslahchi/)
 
 Email: aeslahchi@live.com
 
